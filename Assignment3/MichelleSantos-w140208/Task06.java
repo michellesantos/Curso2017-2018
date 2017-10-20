@@ -74,3 +74,4 @@ public class Task06
 		model.write(System.out, "RDF/XML-ABBREV");
 	}
 }
+
